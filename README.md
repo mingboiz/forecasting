@@ -1,6 +1,6 @@
 # RNN Forecasting 
 [Kaggle notebook](https://www.kaggle.com/mingboi/rolling-rnns)
-![Results](https://github.com/mingboi95/forecasting/blob/main/Summary.jpg?raw=true)
+![Results](https://github.com/mingboi95/forecasting/blob/main/img/Summary.jpg?raw=true)
 
 
 ## Featuring:
